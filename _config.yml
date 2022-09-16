@@ -20,8 +20,7 @@
 
 title: Curriculum Vitae
 email: emiliehastrupkiil@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-My own site!
+description: My own site!
 baseurl: "CurriculumVitae"
 url: "https://emiliehk.github.io/"
 github_username:  EmilieHK
@@ -29,7 +28,7 @@ github_username:  EmilieHK
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+ - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
